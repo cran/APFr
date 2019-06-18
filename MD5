@@ -1,0 +1,12 @@
+417d1d8e3cb1518f37213eb02d818f4f *DESCRIPTION
+398b1da09c992bf03b610da5baa7250a *NAMESPACE
+102cd10e58f4dcdd1403ae34005362fa *R/apf_fdr.R
+68b175b7063da38c3e5510ccd6f160b5 *R/apf_plot.R
+64009d524fff45f4553b3e1348bda7c3 *data/Ex1.rda
+7869e198e74ff58719c303560df59192 *data/Ex2.rda
+9372e4438439a7ec84ec2a53de47a326 *man/Ex1.Rd
+cbb5061c43d54963a9e37aebd57b7501 *man/Ex2.Rd
+ba26fc768ce0dda00a0ce3946babc5a9 *man/apf_fdr.Rd
+7337bc46bf85f18b437f7916574a25af *man/apf_plot.Rd
+c7aa8d25b3ecfb28f9c04a3e22e6ea8c *man/figures/README-example-1.pdf
+9093c441e03aae7ac825b13b8fd5e9b4 *man/figures/README-example-1.png
